@@ -1,0 +1,16 @@
+.idea/
+.settings/
+.project/
+/lib/ext/remote
+/lib/ext/framework
+fis-ext
+/.tmp
+node_modules/
+
+.DS_Store
+
+*.db
+*.bak
+*.tmp
+~*
+upload.py

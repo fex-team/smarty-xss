@@ -1,0 +1,16 @@
+.idea/
+.settings/
+.project/
+node_modules/
+/.tmp
+test/
+
+.DS_Store
+
+*.db
+*.bak
+*.tmp
+~*
+.*
+
+upload.py

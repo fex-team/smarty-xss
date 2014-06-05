@@ -1,0 +1,1 @@
+<div onclick="testTitle('{#$title#}')"></div>
